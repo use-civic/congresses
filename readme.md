@@ -3,12 +3,14 @@
 
 These export files represent all US Congresses that have taken place since March 4,1789.
 
+Data is taken from the Wikipedia page [List of United States Congresses](https://en.wikipedia.org/wiki/List_of_United_States_Congresses).
+
 **Downloads**
 
-| File | Type |
+| Type | File |
 | --- | --- |
-| [congresses.json](congresses.json) | JSON |
-| [congresses.yaml](congresses.yaml) | YAML |
+| JSON | [congresses.json](congresses.json) | 
+| YAML | [congresses.yaml](congresses.yaml) | 
 
 ## JSON Data Format
 
