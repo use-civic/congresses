@@ -2322,11 +2322,11 @@
             {
                 "name": "1st session",
                 "date_start": "2019-01-03T17:56:13.000000Z",
-                "date_end": null
+                "date_end": "2020-01-03T17:56:13.000000Z"
             },
             {
                 "name": "2nd session",
-                "date_start": null,
+                "date_start": "2020-01-03T17:56:13.000000Z",
                 "date_end": null
             }
         ]
