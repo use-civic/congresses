@@ -1,23 +1,21 @@
 {
     "1st Congress": {
+        "id": 1,
         "name": "1st Congress",
         "date_start": "1789-03-04T00:00:00.000000Z",
         "date_end": "1791-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 1,
                 "name": "1st session",
                 "date_start": "1789-03-04T00:00:00.000000Z",
                 "date_end": "1789-09-29T00:00:00.000000Z"
             },
             {
-                "id": 1,
                 "name": "2nd session",
                 "date_start": "1790-01-04T00:00:00.000000Z",
                 "date_end": "1790-08-12T00:00:00.000000Z"
             },
             {
-                "id": 1,
                 "name": "3rd session",
                 "date_start": "1790-12-06T00:00:00.000000Z",
                 "date_end": "1791-03-03T00:00:00.000000Z"
@@ -25,24 +23,22 @@
         ]
     },
     "2nd Congress": {
+        "id": 2,
         "name": "2nd Congress",
         "date_start": "1791-03-04T00:00:00.000000Z",
         "date_end": "1793-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 2,
                 "name": "Special session",
                 "date_start": "1791-03-04T00:00:00.000000Z",
                 "date_end": "1791-03-04T00:00:00.000000Z"
             },
             {
-                "id": 2,
                 "name": "1st session",
                 "date_start": "1791-10-24T00:00:00.000000Z",
                 "date_end": "1792-05-08T00:00:00.000000Z"
             },
             {
-                "id": 2,
                 "name": "2nd session",
                 "date_start": "1792-11-05T00:00:00.000000Z",
                 "date_end": "1793-03-02T00:00:00.000000Z"
@@ -50,24 +46,22 @@
         ]
     },
     "3rd Congress": {
+        "id": 3,
         "name": "3rd Congress",
         "date_start": "1793-03-04T00:00:00.000000Z",
         "date_end": "1795-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 3,
                 "name": "Special session",
                 "date_start": "1793-03-04T00:00:00.000000Z",
                 "date_end": "1793-03-04T00:00:00.000000Z"
             },
             {
-                "id": 3,
                 "name": "1st session",
                 "date_start": "1793-12-02T00:00:00.000000Z",
                 "date_end": "1794-06-09T00:00:00.000000Z"
             },
             {
-                "id": 3,
                 "name": "2nd session",
                 "date_start": "1794-11-03T00:00:00.000000Z",
                 "date_end": "1795-03-03T00:00:00.000000Z"
@@ -75,24 +69,22 @@
         ]
     },
     "4th Congress": {
+        "id": 4,
         "name": "4th Congress",
         "date_start": "1795-03-04T00:00:00.000000Z",
         "date_end": "1797-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 4,
                 "name": "Special session",
                 "date_start": "1795-06-08T00:00:00.000000Z",
                 "date_end": "1795-06-26T00:00:00.000000Z"
             },
             {
-                "id": 4,
                 "name": "1st session",
                 "date_start": "1795-12-07T00:00:00.000000Z",
                 "date_end": "1796-06-01T00:00:00.000000Z"
             },
             {
-                "id": 4,
                 "name": "2nd session",
                 "date_start": "1796-12-05T00:00:00.000000Z",
                 "date_end": "1797-03-03T00:00:00.000000Z"
@@ -100,36 +92,32 @@
         ]
     },
     "5th Congress": {
+        "id": 5,
         "name": "5th Congress",
         "date_start": "1797-03-04T00:00:00.000000Z",
         "date_end": "1799-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 5,
                 "name": "Special session",
                 "date_start": "1797-03-04T00:00:00.000000Z",
                 "date_end": "1797-03-04T00:00:00.000000Z"
             },
             {
-                "id": 5,
                 "name": "1st session",
                 "date_start": "1797-05-15T00:00:00.000000Z",
                 "date_end": "1797-07-10T00:00:00.000000Z"
             },
             {
-                "id": 5,
                 "name": "2nd session",
                 "date_start": "1797-11-13T00:00:00.000000Z",
                 "date_end": "1798-07-16T00:00:00.000000Z"
             },
             {
-                "id": 5,
                 "name": "Special session",
                 "date_start": "1798-07-17T00:00:00.000000Z",
                 "date_end": "1798-07-19T00:00:00.000000Z"
             },
             {
-                "id": 5,
                 "name": "3rd session",
                 "date_start": "1798-12-03T00:00:00.000000Z",
                 "date_end": "1799-03-03T00:00:00.000000Z"
@@ -137,18 +125,17 @@
         ]
     },
     "6th Congress": {
+        "id": 6,
         "name": "6th Congress",
         "date_start": "1799-03-04T00:00:00.000000Z",
         "date_end": "1801-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 6,
                 "name": "1st session",
                 "date_start": "1799-12-02T00:00:00.000000Z",
                 "date_end": "1800-05-14T00:00:00.000000Z"
             },
             {
-                "id": 6,
                 "name": "2nd session",
                 "date_start": "1800-11-17T00:00:00.000000Z",
                 "date_end": "1801-03-03T00:00:00.000000Z"
@@ -156,24 +143,22 @@
         ]
     },
     "7th Congress": {
+        "id": 7,
         "name": "7th Congress",
         "date_start": "1801-03-04T00:00:00.000000Z",
         "date_end": "1803-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 7,
                 "name": "Special session",
                 "date_start": "1801-03-04T00:00:00.000000Z",
                 "date_end": "1801-03-05T00:00:00.000000Z"
             },
             {
-                "id": 7,
                 "name": "1st session",
                 "date_start": "1801-12-07T00:00:00.000000Z",
                 "date_end": "1802-05-03T00:00:00.000000Z"
             },
             {
-                "id": 7,
                 "name": "2nd session",
                 "date_start": "1802-12-06T00:00:00.000000Z",
                 "date_end": "1803-03-03T00:00:00.000000Z"
@@ -181,18 +166,17 @@
         ]
     },
     "8th Congress": {
+        "id": 8,
         "name": "8th Congress",
         "date_start": "1803-03-04T00:00:00.000000Z",
         "date_end": "1805-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 8,
                 "name": "1st session",
                 "date_start": "1803-10-17T00:00:00.000000Z",
                 "date_end": "1804-03-27T00:00:00.000000Z"
             },
             {
-                "id": 8,
                 "name": "2nd session",
                 "date_start": "1804-11-05T00:00:00.000000Z",
                 "date_end": "1805-03-03T00:00:00.000000Z"
@@ -200,18 +184,17 @@
         ]
     },
     "9th Congress": {
+        "id": 9,
         "name": "9th Congress",
         "date_start": "1805-03-04T00:00:00.000000Z",
         "date_end": "1807-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 9,
                 "name": "1st session",
                 "date_start": "1805-12-02T00:00:00.000000Z",
                 "date_end": "1806-04-21T00:00:00.000000Z"
             },
             {
-                "id": 9,
                 "name": "2nd session",
                 "date_start": "1806-12-01T00:00:00.000000Z",
                 "date_end": "1807-03-03T00:00:00.000000Z"
@@ -219,18 +202,17 @@
         ]
     },
     "10th Congress": {
+        "id": 10,
         "name": "10th Congress",
         "date_start": "1807-03-04T00:00:00.000000Z",
         "date_end": "1809-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 10,
                 "name": "1st session",
                 "date_start": "1807-10-26T00:00:00.000000Z",
                 "date_end": "1808-04-25T00:00:00.000000Z"
             },
             {
-                "id": 10,
                 "name": "2nd session",
                 "date_start": "1808-11-07T00:00:00.000000Z",
                 "date_end": "1809-03-03T00:00:00.000000Z"
@@ -238,30 +220,27 @@
         ]
     },
     "11th Congress": {
+        "id": 11,
         "name": "11th Congress",
         "date_start": "1809-03-04T00:00:00.000000Z",
         "date_end": "1811-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 11,
                 "name": "Special session",
                 "date_start": "1809-03-04T00:00:00.000000Z",
                 "date_end": "1809-03-07T00:00:00.000000Z"
             },
             {
-                "id": 11,
                 "name": "1st session",
                 "date_start": "1809-05-22T00:00:00.000000Z",
                 "date_end": "1809-06-28T00:00:00.000000Z"
             },
             {
-                "id": 11,
                 "name": "2nd session",
                 "date_start": "1809-11-27T00:00:00.000000Z",
                 "date_end": "1810-05-01T00:00:00.000000Z"
             },
             {
-                "id": 11,
                 "name": "3rd session",
                 "date_start": "1810-12-03T00:00:00.000000Z",
                 "date_end": "1811-03-03T00:00:00.000000Z"
@@ -269,18 +248,17 @@
         ]
     },
     "12th Congress": {
+        "id": 12,
         "name": "12th Congress",
         "date_start": "1811-03-04T00:00:00.000000Z",
         "date_end": "1813-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 12,
                 "name": "1st session",
                 "date_start": "1811-11-04T00:00:00.000000Z",
                 "date_end": "1812-07-06T00:00:00.000000Z"
             },
             {
-                "id": 12,
                 "name": "2nd session",
                 "date_start": "1812-11-02T00:00:00.000000Z",
                 "date_end": "1813-03-03T00:00:00.000000Z"
@@ -288,24 +266,22 @@
         ]
     },
     "13th Congress": {
+        "id": 13,
         "name": "13th Congress",
         "date_start": "1813-03-04T00:00:00.000000Z",
         "date_end": "1815-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 13,
                 "name": "1st session",
                 "date_start": "1813-05-24T00:00:00.000000Z",
                 "date_end": "1813-08-02T00:00:00.000000Z"
             },
             {
-                "id": 13,
                 "name": "2nd session",
                 "date_start": "1813-12-06T00:00:00.000000Z",
                 "date_end": "1814-04-18T00:00:00.000000Z"
             },
             {
-                "id": 13,
                 "name": "3rd session",
                 "date_start": "1814-09-19T00:00:00.000000Z",
                 "date_end": "1815-03-03T00:00:00.000000Z"
@@ -313,18 +289,17 @@
         ]
     },
     "14th Congress": {
+        "id": 14,
         "name": "14th Congress",
         "date_start": "1815-03-04T00:00:00.000000Z",
         "date_end": "1817-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 14,
                 "name": "1st session",
                 "date_start": "1815-12-04T00:00:00.000000Z",
                 "date_end": "1816-04-30T00:00:00.000000Z"
             },
             {
-                "id": 14,
                 "name": "2nd session",
                 "date_start": "1816-12-02T00:00:00.000000Z",
                 "date_end": "1817-03-03T00:00:00.000000Z"
@@ -332,24 +307,22 @@
         ]
     },
     "15th Congress": {
+        "id": 15,
         "name": "15th Congress",
         "date_start": "1817-03-04T00:00:00.000000Z",
         "date_end": "1819-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 15,
                 "name": "Special session",
                 "date_start": "1817-03-04T00:00:00.000000Z",
                 "date_end": "1817-03-06T00:00:00.000000Z"
             },
             {
-                "id": 15,
                 "name": "1st session",
                 "date_start": "1817-12-01T00:00:00.000000Z",
                 "date_end": "1818-04-20T00:00:00.000000Z"
             },
             {
-                "id": 15,
                 "name": "2nd session",
                 "date_start": "1818-11-16T00:00:00.000000Z",
                 "date_end": "1819-03-03T00:00:00.000000Z"
@@ -357,18 +330,17 @@
         ]
     },
     "16th Congress": {
+        "id": 16,
         "name": "16th Congress",
         "date_start": "1819-03-04T00:00:00.000000Z",
         "date_end": "1821-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 16,
                 "name": "1st session",
                 "date_start": "1819-12-06T00:00:00.000000Z",
                 "date_end": "1820-05-15T00:00:00.000000Z"
             },
             {
-                "id": 16,
                 "name": "2nd session",
                 "date_start": "1820-11-13T00:00:00.000000Z",
                 "date_end": "1821-03-03T00:00:00.000000Z"
@@ -376,18 +348,17 @@
         ]
     },
     "17th Congress": {
+        "id": 17,
         "name": "17th Congress",
         "date_start": "1821-03-04T00:00:00.000000Z",
         "date_end": "1823-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 17,
                 "name": "1st session",
                 "date_start": "1821-12-03T00:00:00.000000Z",
                 "date_end": "1822-05-08T00:00:00.000000Z"
             },
             {
-                "id": 17,
                 "name": "2nd session",
                 "date_start": "1822-12-02T00:00:00.000000Z",
                 "date_end": "1823-03-03T00:00:00.000000Z"
@@ -395,18 +366,17 @@
         ]
     },
     "18th Congress": {
+        "id": 18,
         "name": "18th Congress",
         "date_start": "1823-03-04T00:00:00.000000Z",
         "date_end": "1825-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 18,
                 "name": "1st session",
                 "date_start": "1823-12-01T00:00:00.000000Z",
                 "date_end": "1824-05-27T00:00:00.000000Z"
             },
             {
-                "id": 18,
                 "name": "2nd session",
                 "date_start": "1824-12-06T00:00:00.000000Z",
                 "date_end": "1825-03-03T00:00:00.000000Z"
@@ -414,24 +384,22 @@
         ]
     },
     "19th Congress": {
+        "id": 19,
         "name": "19th Congress",
         "date_start": "1825-03-04T00:00:00.000000Z",
         "date_end": "1827-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 19,
                 "name": "Special session",
                 "date_start": "1825-03-04T00:00:00.000000Z",
                 "date_end": "1825-03-09T00:00:00.000000Z"
             },
             {
-                "id": 19,
                 "name": "1st session",
                 "date_start": "1825-12-05T00:00:00.000000Z",
                 "date_end": "1826-05-22T00:00:00.000000Z"
             },
             {
-                "id": 19,
                 "name": "2nd session",
                 "date_start": "1826-12-04T00:00:00.000000Z",
                 "date_end": "1827-03-03T00:00:00.000000Z"
@@ -439,18 +407,17 @@
         ]
     },
     "20th Congress": {
+        "id": 20,
         "name": "20th Congress",
         "date_start": "1827-03-04T00:00:00.000000Z",
         "date_end": "1829-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 20,
                 "name": "1st session",
                 "date_start": "1827-12-03T00:00:00.000000Z",
                 "date_end": "1828-05-26T00:00:00.000000Z"
             },
             {
-                "id": 20,
                 "name": "2nd session",
                 "date_start": "1828-12-01T00:00:00.000000Z",
                 "date_end": "1829-03-03T00:00:00.000000Z"
@@ -458,24 +425,22 @@
         ]
     },
     "21st Congress": {
+        "id": 21,
         "name": "21st Congress",
         "date_start": "1829-03-04T00:00:00.000000Z",
         "date_end": "1831-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 21,
                 "name": "Special session",
                 "date_start": "1829-03-04T00:00:00.000000Z",
                 "date_end": "1829-03-17T00:00:00.000000Z"
             },
             {
-                "id": 21,
                 "name": "1st session",
                 "date_start": "1829-12-07T00:00:00.000000Z",
                 "date_end": "1830-05-31T00:00:00.000000Z"
             },
             {
-                "id": 21,
                 "name": "2nd session",
                 "date_start": "1830-12-06T00:00:00.000000Z",
                 "date_end": "1831-03-03T00:00:00.000000Z"
@@ -483,18 +448,17 @@
         ]
     },
     "22nd Congress": {
+        "id": 22,
         "name": "22nd Congress",
         "date_start": "1831-03-04T00:00:00.000000Z",
         "date_end": "1833-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 22,
                 "name": "1st session",
                 "date_start": "1831-12-05T00:00:00.000000Z",
                 "date_end": "1832-07-16T00:00:00.000000Z"
             },
             {
-                "id": 22,
                 "name": "2nd session",
                 "date_start": "1832-12-03T00:00:00.000000Z",
                 "date_end": "1833-03-02T00:00:00.000000Z"
@@ -502,18 +466,17 @@
         ]
     },
     "23rd Congress": {
+        "id": 23,
         "name": "23rd Congress",
         "date_start": "1833-03-04T00:00:00.000000Z",
         "date_end": "1835-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 23,
                 "name": "1st session",
                 "date_start": "1833-12-02T00:00:00.000000Z",
                 "date_end": "1834-06-30T00:00:00.000000Z"
             },
             {
-                "id": 23,
                 "name": "2nd session",
                 "date_start": "1834-12-01T00:00:00.000000Z",
                 "date_end": "1835-03-03T00:00:00.000000Z"
@@ -521,18 +484,17 @@
         ]
     },
     "24th Congress": {
+        "id": 24,
         "name": "24th Congress",
         "date_start": "1835-03-04T00:00:00.000000Z",
         "date_end": "1837-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 24,
                 "name": "1st session",
                 "date_start": "1835-12-07T00:00:00.000000Z",
                 "date_end": "1836-07-04T00:00:00.000000Z"
             },
             {
-                "id": 24,
                 "name": "2nd session",
                 "date_start": "1836-12-05T00:00:00.000000Z",
                 "date_end": "1837-03-03T00:00:00.000000Z"
@@ -540,30 +502,27 @@
         ]
     },
     "25th Congress": {
+        "id": 25,
         "name": "25th Congress",
         "date_start": "1837-03-04T00:00:00.000000Z",
         "date_end": "1839-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 25,
                 "name": "Special session",
                 "date_start": "1837-03-04T00:00:00.000000Z",
                 "date_end": "1837-03-10T00:00:00.000000Z"
             },
             {
-                "id": 25,
                 "name": "1st session",
                 "date_start": "1837-09-04T00:00:00.000000Z",
                 "date_end": "1837-10-16T00:00:00.000000Z"
             },
             {
-                "id": 25,
                 "name": "2nd session",
                 "date_start": "1837-12-04T00:00:00.000000Z",
                 "date_end": "1838-07-09T00:00:00.000000Z"
             },
             {
-                "id": 25,
                 "name": "3rd session",
                 "date_start": "1838-12-03T00:00:00.000000Z",
                 "date_end": "1839-03-03T00:00:00.000000Z"
@@ -571,18 +530,17 @@
         ]
     },
     "26th Congress": {
+        "id": 26,
         "name": "26th Congress",
         "date_start": "1839-03-04T00:00:00.000000Z",
         "date_end": "1841-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 26,
                 "name": "1st session",
                 "date_start": "1839-12-02T00:00:00.000000Z",
                 "date_end": "1840-07-21T00:00:00.000000Z"
             },
             {
-                "id": 26,
                 "name": "2nd session",
                 "date_start": "1840-12-07T00:00:00.000000Z",
                 "date_end": "1841-03-03T00:00:00.000000Z"
@@ -590,30 +548,27 @@
         ]
     },
     "27th Congress": {
+        "id": 27,
         "name": "27th Congress",
         "date_start": "1841-03-04T00:00:00.000000Z",
         "date_end": "1843-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 27,
                 "name": "Special session",
                 "date_start": "1841-03-04T00:00:00.000000Z",
                 "date_end": "1841-03-15T00:00:00.000000Z"
             },
             {
-                "id": 27,
                 "name": "1st session",
                 "date_start": "1841-05-31T00:00:00.000000Z",
                 "date_end": "1841-09-13T00:00:00.000000Z"
             },
             {
-                "id": 27,
                 "name": "2nd session",
                 "date_start": "1841-12-06T00:00:00.000000Z",
                 "date_end": "1842-08-31T00:00:00.000000Z"
             },
             {
-                "id": 27,
                 "name": "3rd session",
                 "date_start": "1842-12-05T00:00:00.000000Z",
                 "date_end": "1843-03-03T00:00:00.000000Z"
@@ -621,18 +576,17 @@
         ]
     },
     "28th Congress": {
+        "id": 28,
         "name": "28th Congress",
         "date_start": "1843-03-04T00:00:00.000000Z",
         "date_end": "1845-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 28,
                 "name": "1st session",
                 "date_start": "1843-12-04T00:00:00.000000Z",
                 "date_end": "1844-06-17T00:00:00.000000Z"
             },
             {
-                "id": 28,
                 "name": "2nd session",
                 "date_start": "1844-12-02T00:00:00.000000Z",
                 "date_end": "1845-03-03T00:00:00.000000Z"
@@ -640,24 +594,22 @@
         ]
     },
     "29th Congress": {
+        "id": 29,
         "name": "29th Congress",
         "date_start": "1845-03-04T00:00:00.000000Z",
         "date_end": "1847-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 29,
                 "name": "Special session",
                 "date_start": "1845-03-04T00:00:00.000000Z",
                 "date_end": "1845-03-20T00:00:00.000000Z"
             },
             {
-                "id": 29,
                 "name": "1st session",
                 "date_start": "1845-12-01T00:00:00.000000Z",
                 "date_end": "1846-08-10T00:00:00.000000Z"
             },
             {
-                "id": 29,
                 "name": "2nd session",
                 "date_start": "1846-12-07T00:00:00.000000Z",
                 "date_end": "1847-03-03T00:00:00.000000Z"
@@ -665,18 +617,17 @@
         ]
     },
     "30th Congress": {
+        "id": 30,
         "name": "30th Congress",
         "date_start": "1847-03-04T00:00:00.000000Z",
         "date_end": "1849-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 30,
                 "name": "1st session",
                 "date_start": "1847-12-06T00:00:00.000000Z",
                 "date_end": "1848-08-14T00:00:00.000000Z"
             },
             {
-                "id": 30,
                 "name": "2nd session",
                 "date_start": "1848-12-04T00:00:00.000000Z",
                 "date_end": "1849-03-03T00:00:00.000000Z"
@@ -684,24 +635,22 @@
         ]
     },
     "31st Congress": {
+        "id": 31,
         "name": "31st Congress",
         "date_start": "1849-03-04T00:00:00.000000Z",
         "date_end": "1851-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 31,
                 "name": "Special session",
                 "date_start": "1849-03-05T00:00:00.000000Z",
                 "date_end": "1849-03-23T00:00:00.000000Z"
             },
             {
-                "id": 31,
                 "name": "1st session",
                 "date_start": "1849-12-03T00:00:00.000000Z",
                 "date_end": "1850-09-30T00:00:00.000000Z"
             },
             {
-                "id": 31,
                 "name": "2nd session",
                 "date_start": "1850-12-02T00:00:00.000000Z",
                 "date_end": "1851-03-03T00:00:00.000000Z"
@@ -709,24 +658,22 @@
         ]
     },
     "32nd Congress": {
+        "id": 32,
         "name": "32nd Congress",
         "date_start": "1851-03-04T00:00:00.000000Z",
         "date_end": "1853-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 32,
                 "name": "Special session",
                 "date_start": "1851-03-04T00:00:00.000000Z",
                 "date_end": "1851-03-13T00:00:00.000000Z"
             },
             {
-                "id": 32,
                 "name": "1st session",
                 "date_start": "1851-12-01T00:00:00.000000Z",
                 "date_end": "1852-08-31T00:00:00.000000Z"
             },
             {
-                "id": 32,
                 "name": "2nd session",
                 "date_start": "1852-12-06T00:00:00.000000Z",
                 "date_end": "1853-03-03T00:00:00.000000Z"
@@ -734,24 +681,22 @@
         ]
     },
     "33rd Congress": {
+        "id": 33,
         "name": "33rd Congress",
         "date_start": "1853-03-04T00:00:00.000000Z",
         "date_end": "1855-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 33,
                 "name": "Special session",
                 "date_start": "1853-03-04T00:00:00.000000Z",
                 "date_end": "1853-04-11T00:00:00.000000Z"
             },
             {
-                "id": 33,
                 "name": "1st session",
                 "date_start": "1853-12-05T00:00:00.000000Z",
                 "date_end": "1854-08-07T00:00:00.000000Z"
             },
             {
-                "id": 33,
                 "name": "2nd session",
                 "date_start": "1854-12-04T00:00:00.000000Z",
                 "date_end": "1855-03-03T00:00:00.000000Z"
@@ -759,24 +704,22 @@
         ]
     },
     "34th Congress": {
+        "id": 34,
         "name": "34th Congress",
         "date_start": "1855-03-04T00:00:00.000000Z",
         "date_end": "1857-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 34,
                 "name": "1st session",
                 "date_start": "1855-12-03T00:00:00.000000Z",
                 "date_end": "1856-08-18T00:00:00.000000Z"
             },
             {
-                "id": 34,
                 "name": "2nd session",
                 "date_start": "1856-08-21T00:00:00.000000Z",
                 "date_end": "1856-08-30T00:00:00.000000Z"
             },
             {
-                "id": 34,
                 "name": "3rd session",
                 "date_start": "1856-12-01T00:00:00.000000Z",
                 "date_end": "1857-03-03T00:00:00.000000Z"
@@ -784,30 +727,27 @@
         ]
     },
     "35th Congress": {
+        "id": 35,
         "name": "35th Congress",
         "date_start": "1857-03-04T00:00:00.000000Z",
         "date_end": "1859-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 35,
                 "name": "Special session",
                 "date_start": "1857-03-04T00:00:00.000000Z",
                 "date_end": "1857-03-14T00:00:00.000000Z"
             },
             {
-                "id": 35,
                 "name": "1st session",
                 "date_start": "1857-12-07T00:00:00.000000Z",
                 "date_end": "1858-06-14T00:00:00.000000Z"
             },
             {
-                "id": 35,
                 "name": "Special session",
                 "date_start": "1858-06-15T00:00:00.000000Z",
                 "date_end": "1858-06-16T00:00:00.000000Z"
             },
             {
-                "id": 35,
                 "name": "2nd session",
                 "date_start": "1858-12-06T00:00:00.000000Z",
                 "date_end": "1859-03-03T00:00:00.000000Z"
@@ -815,30 +755,27 @@
         ]
     },
     "36th Congress": {
+        "id": 36,
         "name": "36th Congress",
         "date_start": "1859-03-04T00:00:00.000000Z",
         "date_end": "1861-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 36,
                 "name": "Special session",
                 "date_start": "1859-03-04T00:00:00.000000Z",
                 "date_end": "1859-03-10T00:00:00.000000Z"
             },
             {
-                "id": 36,
                 "name": "1st session",
                 "date_start": "1859-12-05T00:00:00.000000Z",
                 "date_end": "1860-06-25T00:00:00.000000Z"
             },
             {
-                "id": 36,
                 "name": "Special session",
                 "date_start": "1860-06-26T00:00:00.000000Z",
                 "date_end": "1860-06-28T00:00:00.000000Z"
             },
             {
-                "id": 36,
                 "name": "2nd session",
                 "date_start": "1860-12-03T00:00:00.000000Z",
                 "date_end": "1861-03-03T00:00:00.000000Z"
@@ -846,30 +783,27 @@
         ]
     },
     "37th Congress": {
+        "id": 37,
         "name": "37th Congress",
         "date_start": "1861-03-04T00:00:00.000000Z",
         "date_end": "1863-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 37,
                 "name": "Special session",
                 "date_start": "1861-03-04T00:00:00.000000Z",
                 "date_end": "1861-03-28T00:00:00.000000Z"
             },
             {
-                "id": 37,
                 "name": "1st session",
                 "date_start": "1861-07-04T00:00:00.000000Z",
                 "date_end": "1861-08-06T00:00:00.000000Z"
             },
             {
-                "id": 37,
                 "name": "2nd session",
                 "date_start": "1861-12-02T00:00:00.000000Z",
                 "date_end": "1862-07-17T00:00:00.000000Z"
             },
             {
-                "id": 37,
                 "name": "3rd session",
                 "date_start": "1862-12-01T00:00:00.000000Z",
                 "date_end": "1863-03-03T00:00:00.000000Z"
@@ -877,24 +811,22 @@
         ]
     },
     "38th Congress": {
+        "id": 38,
         "name": "38th Congress",
         "date_start": "1863-03-04T00:00:00.000000Z",
         "date_end": "1865-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 38,
                 "name": "Special session",
                 "date_start": "1863-03-04T00:00:00.000000Z",
                 "date_end": "1863-03-14T00:00:00.000000Z"
             },
             {
-                "id": 38,
                 "name": "1st session",
                 "date_start": "1863-12-07T00:00:00.000000Z",
                 "date_end": "1864-07-04T00:00:00.000000Z"
             },
             {
-                "id": 38,
                 "name": "2nd session",
                 "date_start": "1864-12-05T00:00:00.000000Z",
                 "date_end": "1865-03-03T00:00:00.000000Z"
@@ -902,24 +834,22 @@
         ]
     },
     "39th Congress": {
+        "id": 39,
         "name": "39th Congress",
         "date_start": "1865-03-04T00:00:00.000000Z",
         "date_end": "1867-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 39,
                 "name": "Special session",
                 "date_start": "1865-03-04T00:00:00.000000Z",
                 "date_end": "1865-03-11T00:00:00.000000Z"
             },
             {
-                "id": 39,
                 "name": "1st session",
                 "date_start": "1865-12-04T00:00:00.000000Z",
                 "date_end": "1866-07-28T00:00:00.000000Z"
             },
             {
-                "id": 39,
                 "name": "2nd session",
                 "date_start": "1866-12-03T00:00:00.000000Z",
                 "date_end": "1867-03-03T00:00:00.000000Z"
@@ -927,30 +857,27 @@
         ]
     },
     "40th Congress": {
+        "id": 40,
         "name": "40th Congress",
         "date_start": "1867-03-04T00:00:00.000000Z",
         "date_end": "1869-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 40,
                 "name": "1st session",
                 "date_start": "1867-03-04T00:00:00.000000Z",
                 "date_end": "1867-12-01T00:00:00.000000Z"
             },
             {
-                "id": 40,
                 "name": "Special session",
                 "date_start": "1867-04-01T00:00:00.000000Z",
                 "date_end": "1867-04-20T00:00:00.000000Z"
             },
             {
-                "id": 40,
                 "name": "2nd session",
                 "date_start": "1867-12-02T00:00:00.000000Z",
                 "date_end": "1868-11-10T00:00:00.000000Z"
             },
             {
-                "id": 40,
                 "name": "3rd session",
                 "date_start": "1868-12-07T00:00:00.000000Z",
                 "date_end": "1869-03-03T00:00:00.000000Z"
@@ -958,30 +885,27 @@
         ]
     },
     "41st Congress": {
+        "id": 41,
         "name": "41st Congress",
         "date_start": "1869-03-04T00:00:00.000000Z",
         "date_end": "1871-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 41,
                 "name": "1st session",
                 "date_start": "1869-03-04T00:00:00.000000Z",
                 "date_end": "1869-04-10T00:00:00.000000Z"
             },
             {
-                "id": 41,
                 "name": "Special session",
                 "date_start": "1869-04-12T00:00:00.000000Z",
                 "date_end": "1869-04-22T00:00:00.000000Z"
             },
             {
-                "id": 41,
                 "name": "2nd session",
                 "date_start": "1869-12-06T00:00:00.000000Z",
                 "date_end": "1870-07-15T00:00:00.000000Z"
             },
             {
-                "id": 41,
                 "name": "3rd session",
                 "date_start": "1870-12-05T00:00:00.000000Z",
                 "date_end": "1871-03-03T00:00:00.000000Z"
@@ -989,30 +913,27 @@
         ]
     },
     "42nd Congress": {
+        "id": 42,
         "name": "42nd Congress",
         "date_start": "1871-03-04T00:00:00.000000Z",
         "date_end": "1873-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 42,
                 "name": "1st session",
                 "date_start": "1871-03-04T00:00:00.000000Z",
                 "date_end": "1871-04-20T00:00:00.000000Z"
             },
             {
-                "id": 42,
                 "name": "Special session",
                 "date_start": "1871-05-10T00:00:00.000000Z",
                 "date_end": "1871-05-27T00:00:00.000000Z"
             },
             {
-                "id": 42,
                 "name": "2nd session",
                 "date_start": "1871-12-04T00:00:00.000000Z",
                 "date_end": "1872-06-10T00:00:00.000000Z"
             },
             {
-                "id": 42,
                 "name": "3rd session",
                 "date_start": "1872-12-02T00:00:00.000000Z",
                 "date_end": "1873-03-03T00:00:00.000000Z"
@@ -1020,24 +941,22 @@
         ]
     },
     "43rd Congress": {
+        "id": 43,
         "name": "43rd Congress",
         "date_start": "1873-03-04T00:00:00.000000Z",
         "date_end": "1875-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 43,
                 "name": "Special session",
                 "date_start": "1873-03-04T00:00:00.000000Z",
                 "date_end": "1873-03-26T00:00:00.000000Z"
             },
             {
-                "id": 43,
                 "name": "1st session",
                 "date_start": "1873-12-01T00:00:00.000000Z",
                 "date_end": "1874-06-23T00:00:00.000000Z"
             },
             {
-                "id": 43,
                 "name": "2nd session",
                 "date_start": "1874-12-07T00:00:00.000000Z",
                 "date_end": "1875-03-03T00:00:00.000000Z"
@@ -1045,24 +964,22 @@
         ]
     },
     "44th Congress": {
+        "id": 44,
         "name": "44th Congress",
         "date_start": "1875-03-04T00:00:00.000000Z",
         "date_end": "1877-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 44,
                 "name": "Special session",
                 "date_start": "1875-03-05T00:00:00.000000Z",
                 "date_end": "1875-03-24T00:00:00.000000Z"
             },
             {
-                "id": 44,
                 "name": "1st session",
                 "date_start": "1875-12-06T00:00:00.000000Z",
                 "date_end": "1876-08-15T00:00:00.000000Z"
             },
             {
-                "id": 44,
                 "name": "2nd session",
                 "date_start": "1876-12-04T00:00:00.000000Z",
                 "date_end": "1877-03-03T00:00:00.000000Z"
@@ -1070,30 +987,27 @@
         ]
     },
     "45th Congress": {
+        "id": 45,
         "name": "45th Congress",
         "date_start": "1877-03-04T00:00:00.000000Z",
         "date_end": "1879-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 45,
                 "name": "Special session",
                 "date_start": "1877-03-05T00:00:00.000000Z",
                 "date_end": "1877-03-17T00:00:00.000000Z"
             },
             {
-                "id": 45,
                 "name": "1st session",
                 "date_start": "1877-10-15T00:00:00.000000Z",
                 "date_end": "1877-12-03T00:00:00.000000Z"
             },
             {
-                "id": 45,
                 "name": "2nd session",
                 "date_start": "1877-12-03T00:00:00.000000Z",
                 "date_end": "1878-06-20T00:00:00.000000Z"
             },
             {
-                "id": 45,
                 "name": "3rd session",
                 "date_start": "1878-12-02T00:00:00.000000Z",
                 "date_end": "1879-03-03T00:00:00.000000Z"
@@ -1101,24 +1015,22 @@
         ]
     },
     "46th Congress": {
+        "id": 46,
         "name": "46th Congress",
         "date_start": "1879-03-04T00:00:00.000000Z",
         "date_end": "1881-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 46,
                 "name": "1st session",
                 "date_start": "1879-03-18T00:00:00.000000Z",
                 "date_end": "1879-07-01T00:00:00.000000Z"
             },
             {
-                "id": 46,
                 "name": "2nd session",
                 "date_start": "1879-12-01T00:00:00.000000Z",
                 "date_end": "1880-06-16T00:00:00.000000Z"
             },
             {
-                "id": 46,
                 "name": "3rd session",
                 "date_start": "1880-12-06T00:00:00.000000Z",
                 "date_end": "1881-03-03T00:00:00.000000Z"
@@ -1126,30 +1038,27 @@
         ]
     },
     "47th Congress": {
+        "id": 47,
         "name": "47th Congress",
         "date_start": "1881-03-04T00:00:00.000000Z",
         "date_end": "1883-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 47,
                 "name": "Special session",
                 "date_start": "1881-03-04T00:00:00.000000Z",
                 "date_end": "1881-05-20T00:00:00.000000Z"
             },
             {
-                "id": 47,
                 "name": "Special session",
                 "date_start": "1881-10-10T00:00:00.000000Z",
                 "date_end": "1881-10-29T00:00:00.000000Z"
             },
             {
-                "id": 47,
                 "name": "1st session",
                 "date_start": "1881-12-05T00:00:00.000000Z",
                 "date_end": "1882-08-08T00:00:00.000000Z"
             },
             {
-                "id": 47,
                 "name": "2nd session",
                 "date_start": "1882-12-04T00:00:00.000000Z",
                 "date_end": "1883-03-03T00:00:00.000000Z"
@@ -1157,18 +1066,17 @@
         ]
     },
     "48th Congress": {
+        "id": 48,
         "name": "48th Congress",
         "date_start": "1883-03-04T00:00:00.000000Z",
         "date_end": "1885-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 48,
                 "name": "1st session",
                 "date_start": "1883-12-03T00:00:00.000000Z",
                 "date_end": "1884-07-07T00:00:00.000000Z"
             },
             {
-                "id": 48,
                 "name": "2nd session",
                 "date_start": "1884-12-01T00:00:00.000000Z",
                 "date_end": "1885-03-03T00:00:00.000000Z"
@@ -1176,24 +1084,22 @@
         ]
     },
     "49th Congress": {
+        "id": 49,
         "name": "49th Congress",
         "date_start": "1885-03-04T00:00:00.000000Z",
         "date_end": "1887-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 49,
                 "name": "Special session",
                 "date_start": "1885-03-04T00:00:00.000000Z",
                 "date_end": "1885-04-02T00:00:00.000000Z"
             },
             {
-                "id": 49,
                 "name": "1st session",
                 "date_start": "1885-12-07T00:00:00.000000Z",
                 "date_end": "1886-08-05T00:00:00.000000Z"
             },
             {
-                "id": 49,
                 "name": "2nd session",
                 "date_start": "1886-12-06T00:00:00.000000Z",
                 "date_end": "1887-03-03T00:00:00.000000Z"
@@ -1201,18 +1107,17 @@
         ]
     },
     "50th Congress": {
+        "id": 50,
         "name": "50th Congress",
         "date_start": "1887-03-04T00:00:00.000000Z",
         "date_end": "1889-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 50,
                 "name": "1st session",
                 "date_start": "1887-12-05T00:00:00.000000Z",
                 "date_end": "1888-10-20T00:00:00.000000Z"
             },
             {
-                "id": 50,
                 "name": "2nd session",
                 "date_start": "1888-12-03T00:00:00.000000Z",
                 "date_end": "1889-03-03T00:00:00.000000Z"
@@ -1220,24 +1125,22 @@
         ]
     },
     "51st Congress": {
+        "id": 51,
         "name": "51st Congress",
         "date_start": "1889-03-04T00:00:00.000000Z",
         "date_end": "1891-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 51,
                 "name": "Special session",
                 "date_start": "1889-03-04T00:00:00.000000Z",
                 "date_end": "1889-04-02T00:00:00.000000Z"
             },
             {
-                "id": 51,
                 "name": "1st session",
                 "date_start": "1889-12-02T00:00:00.000000Z",
                 "date_end": "1890-10-01T00:00:00.000000Z"
             },
             {
-                "id": 51,
                 "name": "2nd session",
                 "date_start": "1890-12-01T00:00:00.000000Z",
                 "date_end": "1891-03-03T00:00:00.000000Z"
@@ -1245,18 +1148,17 @@
         ]
     },
     "52nd Congress": {
+        "id": 52,
         "name": "52nd Congress",
         "date_start": "1891-03-04T00:00:00.000000Z",
         "date_end": "1893-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 52,
                 "name": "1st session",
                 "date_start": "1891-12-07T00:00:00.000000Z",
                 "date_end": "1892-08-05T00:00:00.000000Z"
             },
             {
-                "id": 52,
                 "name": "2nd session",
                 "date_start": "1892-12-05T00:00:00.000000Z",
                 "date_end": "1893-03-03T00:00:00.000000Z"
@@ -1264,30 +1166,27 @@
         ]
     },
     "53rd Congress": {
+        "id": 53,
         "name": "53rd Congress",
         "date_start": "1893-03-04T00:00:00.000000Z",
         "date_end": "1895-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 53,
                 "name": "Special session",
                 "date_start": "1893-03-04T00:00:00.000000Z",
                 "date_end": "1893-04-15T00:00:00.000000Z"
             },
             {
-                "id": 53,
                 "name": "1st session",
                 "date_start": "1893-08-07T00:00:00.000000Z",
                 "date_end": "1893-11-03T00:00:00.000000Z"
             },
             {
-                "id": 53,
                 "name": "2nd session",
                 "date_start": "1893-12-04T00:00:00.000000Z",
                 "date_end": "1894-08-28T00:00:00.000000Z"
             },
             {
-                "id": 53,
                 "name": "3rd session",
                 "date_start": "1894-12-03T00:00:00.000000Z",
                 "date_end": "1895-03-03T00:00:00.000000Z"
@@ -1295,18 +1194,17 @@
         ]
     },
     "54th Congress": {
+        "id": 54,
         "name": "54th Congress",
         "date_start": "1895-03-04T00:00:00.000000Z",
         "date_end": "1897-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 54,
                 "name": "1st session",
                 "date_start": "1895-12-02T00:00:00.000000Z",
                 "date_end": "1896-06-11T00:00:00.000000Z"
             },
             {
-                "id": 54,
                 "name": "2nd session",
                 "date_start": "1896-12-07T00:00:00.000000Z",
                 "date_end": "1897-03-03T00:00:00.000000Z"
@@ -1314,30 +1212,27 @@
         ]
     },
     "55th Congress": {
+        "id": 55,
         "name": "55th Congress",
         "date_start": "1897-03-04T00:00:00.000000Z",
         "date_end": "1899-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 55,
                 "name": "Special session",
                 "date_start": "1897-03-04T00:00:00.000000Z",
                 "date_end": "1897-03-10T00:00:00.000000Z"
             },
             {
-                "id": 55,
                 "name": "1st session",
                 "date_start": "1897-03-15T00:00:00.000000Z",
                 "date_end": "1897-07-24T00:00:00.000000Z"
             },
             {
-                "id": 55,
                 "name": "2nd session",
                 "date_start": "1897-12-06T00:00:00.000000Z",
                 "date_end": "1898-07-08T00:00:00.000000Z"
             },
             {
-                "id": 55,
                 "name": "3rd session",
                 "date_start": "1898-12-05T00:00:00.000000Z",
                 "date_end": "1899-03-03T00:00:00.000000Z"
@@ -1345,18 +1240,17 @@
         ]
     },
     "56th Congress": {
+        "id": 56,
         "name": "56th Congress",
         "date_start": "1899-03-04T00:00:00.000000Z",
         "date_end": "1901-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 56,
                 "name": "1st session",
                 "date_start": "1899-12-04T00:00:00.000000Z",
                 "date_end": "1900-06-07T00:00:00.000000Z"
             },
             {
-                "id": 56,
                 "name": "2nd session",
                 "date_start": "1900-12-03T00:00:00.000000Z",
                 "date_end": "1901-03-03T00:00:00.000000Z"
@@ -1364,24 +1258,22 @@
         ]
     },
     "57th Congress": {
+        "id": 57,
         "name": "57th Congress",
         "date_start": "1901-03-04T00:00:00.000000Z",
         "date_end": "1903-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 57,
                 "name": "Special session",
                 "date_start": "1901-03-04T00:00:00.000000Z",
                 "date_end": "1901-03-09T00:00:00.000000Z"
             },
             {
-                "id": 57,
                 "name": "1st session",
                 "date_start": "1901-12-02T00:00:00.000000Z",
                 "date_end": "1902-07-01T00:00:00.000000Z"
             },
             {
-                "id": 57,
                 "name": "2nd session",
                 "date_start": "1902-12-01T00:00:00.000000Z",
                 "date_end": "1903-03-03T00:00:00.000000Z"
@@ -1389,30 +1281,27 @@
         ]
     },
     "58th Congress": {
+        "id": 58,
         "name": "58th Congress",
         "date_start": "1903-03-04T00:00:00.000000Z",
         "date_end": "1905-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 58,
                 "name": "Special session",
                 "date_start": "1903-03-05T00:00:00.000000Z",
                 "date_end": "1903-03-19T00:00:00.000000Z"
             },
             {
-                "id": 58,
                 "name": "1st session",
                 "date_start": "1903-11-09T00:00:00.000000Z",
                 "date_end": "1903-12-07T00:00:00.000000Z"
             },
             {
-                "id": 58,
                 "name": "2nd session",
                 "date_start": "1903-12-07T00:00:00.000000Z",
                 "date_end": "1904-04-28T00:00:00.000000Z"
             },
             {
-                "id": 58,
                 "name": "3rd session",
                 "date_start": "1904-12-05T00:00:00.000000Z",
                 "date_end": "1905-03-03T00:00:00.000000Z"
@@ -1420,24 +1309,22 @@
         ]
     },
     "59th Congress": {
+        "id": 59,
         "name": "59th Congress",
         "date_start": "1905-03-04T00:00:00.000000Z",
         "date_end": "1907-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 59,
                 "name": "Special session",
                 "date_start": "1905-03-04T00:00:00.000000Z",
                 "date_end": "1905-03-18T00:00:00.000000Z"
             },
             {
-                "id": 59,
                 "name": "1st session",
                 "date_start": "1905-12-04T00:00:00.000000Z",
                 "date_end": "1906-06-30T00:00:00.000000Z"
             },
             {
-                "id": 59,
                 "name": "2nd session",
                 "date_start": "1906-12-03T00:00:00.000000Z",
                 "date_end": "1907-03-03T00:00:00.000000Z"
@@ -1445,18 +1332,17 @@
         ]
     },
     "60th Congress": {
+        "id": 60,
         "name": "60th Congress",
         "date_start": "1907-03-04T00:00:00.000000Z",
         "date_end": "1909-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 60,
                 "name": "1st session",
                 "date_start": "1907-12-02T00:00:00.000000Z",
                 "date_end": "1908-05-30T00:00:00.000000Z"
             },
             {
-                "id": 60,
                 "name": "2nd session",
                 "date_start": "1908-12-07T00:00:00.000000Z",
                 "date_end": "1909-03-03T00:00:00.000000Z"
@@ -1464,30 +1350,27 @@
         ]
     },
     "61st Congress": {
+        "id": 61,
         "name": "61st Congress",
         "date_start": "1909-03-04T00:00:00.000000Z",
         "date_end": "1911-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 61,
                 "name": "Special session",
                 "date_start": "1909-03-04T00:00:00.000000Z",
                 "date_end": "1909-03-06T00:00:00.000000Z"
             },
             {
-                "id": 61,
                 "name": "1st session",
                 "date_start": "1909-03-15T00:00:00.000000Z",
                 "date_end": "1909-08-05T00:00:00.000000Z"
             },
             {
-                "id": 61,
                 "name": "2nd session",
                 "date_start": "1909-12-06T00:00:00.000000Z",
                 "date_end": "1910-06-25T00:00:00.000000Z"
             },
             {
-                "id": 61,
                 "name": "3rd session",
                 "date_start": "1910-12-05T00:00:00.000000Z",
                 "date_end": "1911-03-03T00:00:00.000000Z"
@@ -1495,24 +1378,22 @@
         ]
     },
     "62nd Congress": {
+        "id": 62,
         "name": "62nd Congress",
         "date_start": "1911-03-04T00:00:00.000000Z",
         "date_end": "1913-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 62,
                 "name": "1st session",
                 "date_start": "1911-04-04T00:00:00.000000Z",
                 "date_end": "1911-08-22T00:00:00.000000Z"
             },
             {
-                "id": 62,
                 "name": "2nd session",
                 "date_start": "1911-12-04T00:00:00.000000Z",
                 "date_end": "1912-08-26T00:00:00.000000Z"
             },
             {
-                "id": 62,
                 "name": "3rd session",
                 "date_start": "1912-12-02T00:00:00.000000Z",
                 "date_end": "1913-03-03T00:00:00.000000Z"
@@ -1520,30 +1401,27 @@
         ]
     },
     "63rd Congress": {
+        "id": 63,
         "name": "63rd Congress",
         "date_start": "1913-03-04T00:00:00.000000Z",
         "date_end": "1915-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 63,
                 "name": "Special session",
                 "date_start": "1913-03-04T00:00:00.000000Z",
                 "date_end": "1913-03-17T00:00:00.000000Z"
             },
             {
-                "id": 63,
                 "name": "1st session",
                 "date_start": "1913-04-07T00:00:00.000000Z",
                 "date_end": "1913-12-01T00:00:00.000000Z"
             },
             {
-                "id": 63,
                 "name": "2nd session",
                 "date_start": "1913-12-01T00:00:00.000000Z",
                 "date_end": "1914-10-24T00:00:00.000000Z"
             },
             {
-                "id": 63,
                 "name": "3rd session",
                 "date_start": "1914-12-07T00:00:00.000000Z",
                 "date_end": "1915-03-03T00:00:00.000000Z"
@@ -1551,18 +1429,17 @@
         ]
     },
     "64th Congress": {
+        "id": 64,
         "name": "64th Congress",
         "date_start": "1915-03-04T00:00:00.000000Z",
         "date_end": "1917-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 64,
                 "name": "1st session",
                 "date_start": "1915-12-06T00:00:00.000000Z",
                 "date_end": "1916-09-08T00:00:00.000000Z"
             },
             {
-                "id": 64,
                 "name": "2nd session",
                 "date_start": "1916-12-04T00:00:00.000000Z",
                 "date_end": "1917-03-03T00:00:00.000000Z"
@@ -1570,30 +1447,27 @@
         ]
     },
     "65th Congress": {
+        "id": 65,
         "name": "65th Congress",
         "date_start": "1917-03-04T00:00:00.000000Z",
         "date_end": "1919-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 65,
                 "name": "Special session",
                 "date_start": "1917-03-05T00:00:00.000000Z",
                 "date_end": "1917-03-16T00:00:00.000000Z"
             },
             {
-                "id": 65,
                 "name": "1st session",
                 "date_start": "1917-04-02T00:00:00.000000Z",
                 "date_end": "1917-10-06T00:00:00.000000Z"
             },
             {
-                "id": 65,
                 "name": "2nd session",
                 "date_start": "1917-12-03T00:00:00.000000Z",
                 "date_end": "1918-11-21T00:00:00.000000Z"
             },
             {
-                "id": 65,
                 "name": "3rd session",
                 "date_start": "1918-12-02T00:00:00.000000Z",
                 "date_end": "1919-03-03T00:00:00.000000Z"
@@ -1601,24 +1475,22 @@
         ]
     },
     "66th Congress": {
+        "id": 66,
         "name": "66th Congress",
         "date_start": "1919-03-04T00:00:00.000000Z",
         "date_end": "1921-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 66,
                 "name": "1st session",
                 "date_start": "1919-05-19T00:00:00.000000Z",
                 "date_end": "1919-11-19T00:00:00.000000Z"
             },
             {
-                "id": 66,
                 "name": "2nd session",
                 "date_start": "1919-12-01T00:00:00.000000Z",
                 "date_end": "1920-06-05T00:00:00.000000Z"
             },
             {
-                "id": 66,
                 "name": "3rd session",
                 "date_start": "1920-12-06T00:00:00.000000Z",
                 "date_end": "1921-03-03T00:00:00.000000Z"
@@ -1626,36 +1498,32 @@
         ]
     },
     "67th Congress": {
+        "id": 67,
         "name": "67th Congress",
         "date_start": "1921-03-04T00:00:00.000000Z",
         "date_end": "1923-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 67,
                 "name": "Special session",
                 "date_start": "1921-03-04T00:00:00.000000Z",
                 "date_end": "1921-03-15T00:00:00.000000Z"
             },
             {
-                "id": 67,
                 "name": "1st session",
                 "date_start": "1921-04-11T00:00:00.000000Z",
                 "date_end": "1921-11-23T00:00:00.000000Z"
             },
             {
-                "id": 67,
                 "name": "2nd session",
                 "date_start": "1921-12-05T00:00:00.000000Z",
                 "date_end": "1922-09-22T00:00:00.000000Z"
             },
             {
-                "id": 67,
                 "name": "3rd session",
                 "date_start": "1922-11-20T00:00:00.000000Z",
                 "date_end": "1922-12-04T00:00:00.000000Z"
             },
             {
-                "id": 67,
                 "name": "4th session",
                 "date_start": "1922-12-04T00:00:00.000000Z",
                 "date_end": "1923-03-03T00:00:00.000000Z"
@@ -1663,18 +1531,17 @@
         ]
     },
     "68th Congress": {
+        "id": 68,
         "name": "68th Congress",
         "date_start": "1923-03-04T00:00:00.000000Z",
         "date_end": "1925-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 68,
                 "name": "1st session",
                 "date_start": "1923-12-03T00:00:00.000000Z",
                 "date_end": "1924-06-07T00:00:00.000000Z"
             },
             {
-                "id": 68,
                 "name": "2nd session",
                 "date_start": "1924-12-01T00:00:00.000000Z",
                 "date_end": "1925-03-03T00:00:00.000000Z"
@@ -1682,24 +1549,22 @@
         ]
     },
     "69th Congress": {
+        "id": 69,
         "name": "69th Congress",
         "date_start": "1925-03-04T00:00:00.000000Z",
         "date_end": "1927-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 69,
                 "name": "Special session",
                 "date_start": "1925-03-04T00:00:00.000000Z",
                 "date_end": "1925-03-18T00:00:00.000000Z"
             },
             {
-                "id": 69,
                 "name": "1st session",
                 "date_start": "1925-12-07T00:00:00.000000Z",
                 "date_end": "1926-07-03T00:00:00.000000Z"
             },
             {
-                "id": 69,
                 "name": "2nd session",
                 "date_start": "1926-12-06T00:00:00.000000Z",
                 "date_end": "1927-03-04T00:00:00.000000Z"
@@ -1707,18 +1572,17 @@
         ]
     },
     "70th Congress": {
+        "id": 70,
         "name": "70th Congress",
         "date_start": "1927-03-04T00:00:00.000000Z",
         "date_end": "1929-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 70,
                 "name": "1st session",
                 "date_start": "1927-12-05T00:00:00.000000Z",
                 "date_end": "1928-05-29T00:00:00.000000Z"
             },
             {
-                "id": 70,
                 "name": "2nd session",
                 "date_start": "1928-12-03T00:00:00.000000Z",
                 "date_end": "1929-03-03T00:00:00.000000Z"
@@ -1726,36 +1590,32 @@
         ]
     },
     "71st Congress": {
+        "id": 71,
         "name": "71st Congress",
         "date_start": "1929-03-04T00:00:00.000000Z",
         "date_end": "1931-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 71,
                 "name": "Special session",
                 "date_start": "1929-03-04T00:00:00.000000Z",
                 "date_end": "1929-03-05T00:00:00.000000Z"
             },
             {
-                "id": 71,
                 "name": "1st session",
                 "date_start": "1929-04-15T00:00:00.000000Z",
                 "date_end": "1929-11-22T00:00:00.000000Z"
             },
             {
-                "id": 71,
                 "name": "2nd session",
                 "date_start": "1929-12-02T00:00:00.000000Z",
                 "date_end": "1930-07-03T00:00:00.000000Z"
             },
             {
-                "id": 71,
                 "name": "Special session",
                 "date_start": "1930-07-07T00:00:00.000000Z",
                 "date_end": "1930-07-21T00:00:00.000000Z"
             },
             {
-                "id": 71,
                 "name": "3rd session",
                 "date_start": "1930-12-01T00:00:00.000000Z",
                 "date_end": "1931-03-03T00:00:00.000000Z"
@@ -1763,18 +1623,17 @@
         ]
     },
     "72nd Congress": {
+        "id": 72,
         "name": "72nd Congress",
         "date_start": "1931-03-04T00:00:00.000000Z",
         "date_end": "1933-03-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 72,
                 "name": "1st session",
                 "date_start": "1931-12-07T00:00:00.000000Z",
                 "date_end": "1932-07-16T00:00:00.000000Z"
             },
             {
-                "id": 72,
                 "name": "2nd session",
                 "date_start": "1932-12-05T00:00:00.000000Z",
                 "date_end": "1933-03-03T00:00:00.000000Z"
@@ -1782,24 +1641,22 @@
         ]
     },
     "73rd Congress": {
+        "id": 73,
         "name": "73rd Congress",
         "date_start": "1933-03-04T00:00:00.000000Z",
         "date_end": "1935-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 73,
                 "name": "Special session",
                 "date_start": "1933-03-04T00:00:00.000000Z",
                 "date_end": "1933-03-06T00:00:00.000000Z"
             },
             {
-                "id": 73,
                 "name": "1st session",
                 "date_start": "1933-03-09T00:00:00.000000Z",
                 "date_end": "1933-06-15T00:00:00.000000Z"
             },
             {
-                "id": 73,
                 "name": "2nd session",
                 "date_start": "1934-01-03T00:00:00.000000Z",
                 "date_end": "1934-06-18T00:00:00.000000Z"
@@ -1807,18 +1664,17 @@
         ]
     },
     "74th Congress": {
+        "id": 74,
         "name": "74th Congress",
         "date_start": "1935-01-03T00:00:00.000000Z",
         "date_end": "1937-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 74,
                 "name": "1st session",
                 "date_start": "1935-01-03T00:00:00.000000Z",
                 "date_end": "1935-08-26T00:00:00.000000Z"
             },
             {
-                "id": 74,
                 "name": "2nd session",
                 "date_start": "1936-01-03T00:00:00.000000Z",
                 "date_end": "1936-06-20T00:00:00.000000Z"
@@ -1826,24 +1682,22 @@
         ]
     },
     "75th Congress": {
+        "id": 75,
         "name": "75th Congress",
         "date_start": "1937-01-03T00:00:00.000000Z",
         "date_end": "1939-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 75,
                 "name": "1st session",
                 "date_start": "1937-01-05T00:00:00.000000Z",
                 "date_end": "1937-08-21T00:00:00.000000Z"
             },
             {
-                "id": 75,
                 "name": "2nd session",
                 "date_start": "1937-11-15T00:00:00.000000Z",
                 "date_end": "1937-12-21T00:00:00.000000Z"
             },
             {
-                "id": 75,
                 "name": "3rd session",
                 "date_start": "1938-01-03T00:00:00.000000Z",
                 "date_end": "1938-06-16T00:00:00.000000Z"
@@ -1851,24 +1705,22 @@
         ]
     },
     "76th Congress": {
+        "id": 76,
         "name": "76th Congress",
         "date_start": "1939-01-03T00:00:00.000000Z",
         "date_end": "1941-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 76,
                 "name": "1st session",
                 "date_start": "1939-01-03T00:00:00.000000Z",
                 "date_end": "1939-08-05T00:00:00.000000Z"
             },
             {
-                "id": 76,
                 "name": "2nd session",
                 "date_start": "1939-09-21T00:00:00.000000Z",
                 "date_end": "1939-11-03T00:00:00.000000Z"
             },
             {
-                "id": 76,
                 "name": "3rd session",
                 "date_start": "1940-01-03T00:00:00.000000Z",
                 "date_end": "1941-01-03T00:00:00.000000Z"
@@ -1876,18 +1728,17 @@
         ]
     },
     "77th Congress": {
+        "id": 77,
         "name": "77th Congress",
         "date_start": "1941-01-03T00:00:00.000000Z",
         "date_end": "1943-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 77,
                 "name": "1st session",
                 "date_start": "1941-01-03T00:00:00.000000Z",
                 "date_end": "1942-01-02T00:00:00.000000Z"
             },
             {
-                "id": 77,
                 "name": "2nd session",
                 "date_start": "1942-01-05T00:00:00.000000Z",
                 "date_end": "1942-12-16T00:00:00.000000Z"
@@ -1895,18 +1746,17 @@
         ]
     },
     "78th Congress": {
+        "id": 78,
         "name": "78th Congress",
         "date_start": "1943-01-03T00:00:00.000000Z",
         "date_end": "1945-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 78,
                 "name": "1st session",
                 "date_start": "1943-01-06T00:00:00.000000Z",
                 "date_end": "1943-12-21T00:00:00.000000Z"
             },
             {
-                "id": 78,
                 "name": "2nd session",
                 "date_start": "1944-01-10T00:00:00.000000Z",
                 "date_end": "1944-12-19T00:00:00.000000Z"
@@ -1914,18 +1764,17 @@
         ]
     },
     "79th Congress": {
+        "id": 79,
         "name": "79th Congress",
         "date_start": "1945-01-03T00:00:00.000000Z",
         "date_end": "1947-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 79,
                 "name": "1st session",
                 "date_start": "1945-01-03T00:00:00.000000Z",
                 "date_end": "1945-12-21T00:00:00.000000Z"
             },
             {
-                "id": 79,
                 "name": "2nd session",
                 "date_start": "1946-01-14T00:00:00.000000Z",
                 "date_end": "1946-08-02T00:00:00.000000Z"
@@ -1933,18 +1782,17 @@
         ]
     },
     "80th Congress": {
+        "id": 80,
         "name": "80th Congress",
         "date_start": "1947-01-03T00:00:00.000000Z",
         "date_end": "1949-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 80,
                 "name": "1st session",
                 "date_start": "1947-01-03T00:00:00.000000Z",
                 "date_end": "1947-12-19T00:00:00.000000Z"
             },
             {
-                "id": 80,
                 "name": "2nd session",
                 "date_start": "1948-01-06T00:00:00.000000Z",
                 "date_end": "1948-12-31T00:00:00.000000Z"
@@ -1952,18 +1800,17 @@
         ]
     },
     "81st Congress": {
+        "id": 81,
         "name": "81st Congress",
         "date_start": "1949-01-03T00:00:00.000000Z",
         "date_end": "1951-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 81,
                 "name": "1st session",
                 "date_start": "1949-01-03T00:00:00.000000Z",
                 "date_end": "1949-10-19T00:00:00.000000Z"
             },
             {
-                "id": 81,
                 "name": "2nd session",
                 "date_start": "1950-01-03T00:00:00.000000Z",
                 "date_end": "1951-01-02T00:00:00.000000Z"
@@ -1971,18 +1818,17 @@
         ]
     },
     "82nd Congress": {
+        "id": 82,
         "name": "82nd Congress",
         "date_start": "1951-01-03T00:00:00.000000Z",
         "date_end": "1953-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 82,
                 "name": "1st session",
                 "date_start": "1951-01-03T00:00:00.000000Z",
                 "date_end": "1951-10-20T00:00:00.000000Z"
             },
             {
-                "id": 82,
                 "name": "2nd session",
                 "date_start": "1952-01-08T00:00:00.000000Z",
                 "date_end": "1952-07-07T00:00:00.000000Z"
@@ -1990,18 +1836,17 @@
         ]
     },
     "83rd Congress": {
+        "id": 83,
         "name": "83rd Congress",
         "date_start": "1953-01-03T00:00:00.000000Z",
         "date_end": "1955-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 83,
                 "name": "1st session",
                 "date_start": "1953-01-03T00:00:00.000000Z",
                 "date_end": "1953-08-03T00:00:00.000000Z"
             },
             {
-                "id": 83,
                 "name": "2nd session",
                 "date_start": "1954-01-06T00:00:00.000000Z",
                 "date_end": "1954-12-02T00:00:00.000000Z"
@@ -2009,18 +1854,17 @@
         ]
     },
     "84th Congress": {
+        "id": 84,
         "name": "84th Congress",
         "date_start": "1955-01-03T00:00:00.000000Z",
         "date_end": "1957-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 84,
                 "name": "1st session",
                 "date_start": "1955-01-05T00:00:00.000000Z",
                 "date_end": "1955-08-02T00:00:00.000000Z"
             },
             {
-                "id": 84,
                 "name": "2nd session",
                 "date_start": "1956-01-03T00:00:00.000000Z",
                 "date_end": "1956-07-27T00:00:00.000000Z"
@@ -2028,18 +1872,17 @@
         ]
     },
     "85th Congress": {
+        "id": 85,
         "name": "85th Congress",
         "date_start": "1957-01-03T00:00:00.000000Z",
         "date_end": "1959-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 85,
                 "name": "1st session",
                 "date_start": "1957-01-03T00:00:00.000000Z",
                 "date_end": "1957-08-30T00:00:00.000000Z"
             },
             {
-                "id": 85,
                 "name": "2nd session",
                 "date_start": "1958-01-07T00:00:00.000000Z",
                 "date_end": "1958-08-24T00:00:00.000000Z"
@@ -2047,18 +1890,17 @@
         ]
     },
     "86th Congress": {
+        "id": 86,
         "name": "86th Congress",
         "date_start": "1959-01-03T00:00:00.000000Z",
         "date_end": "1961-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 86,
                 "name": "1st session",
                 "date_start": "1959-01-07T00:00:00.000000Z",
                 "date_end": "1959-09-15T00:00:00.000000Z"
             },
             {
-                "id": 86,
                 "name": "2nd session",
                 "date_start": "1960-01-06T00:00:00.000000Z",
                 "date_end": "1960-09-01T00:00:00.000000Z"
@@ -2066,18 +1908,17 @@
         ]
     },
     "87th Congress": {
+        "id": 87,
         "name": "87th Congress",
         "date_start": "1961-01-03T00:00:00.000000Z",
         "date_end": "1963-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 87,
                 "name": "1st session",
                 "date_start": "1961-01-03T00:00:00.000000Z",
                 "date_end": "1961-09-27T00:00:00.000000Z"
             },
             {
-                "id": 87,
                 "name": "2nd session",
                 "date_start": "1962-01-10T00:00:00.000000Z",
                 "date_end": "1962-10-13T00:00:00.000000Z"
@@ -2085,18 +1926,17 @@
         ]
     },
     "88th Congress": {
+        "id": 88,
         "name": "88th Congress",
         "date_start": "1963-01-03T00:00:00.000000Z",
         "date_end": "1965-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 88,
                 "name": "1st session",
                 "date_start": "1963-01-09T00:00:00.000000Z",
                 "date_end": "1963-12-30T00:00:00.000000Z"
             },
             {
-                "id": 88,
                 "name": "2nd session",
                 "date_start": "1964-01-07T00:00:00.000000Z",
                 "date_end": "1964-10-03T00:00:00.000000Z"
@@ -2104,18 +1944,17 @@
         ]
     },
     "89th Congress": {
+        "id": 89,
         "name": "89th Congress",
         "date_start": "1965-01-03T00:00:00.000000Z",
         "date_end": "1967-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 89,
                 "name": "1st session",
                 "date_start": "1965-01-04T00:00:00.000000Z",
                 "date_end": "1965-10-23T00:00:00.000000Z"
             },
             {
-                "id": 89,
                 "name": "2nd session",
                 "date_start": "1966-01-10T00:00:00.000000Z",
                 "date_end": "1966-10-22T00:00:00.000000Z"
@@ -2123,18 +1962,17 @@
         ]
     },
     "90th Congress": {
+        "id": 90,
         "name": "90th Congress",
         "date_start": "1967-01-03T00:00:00.000000Z",
         "date_end": "1969-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 90,
                 "name": "1st session",
                 "date_start": "1967-01-10T00:00:00.000000Z",
                 "date_end": "1967-12-15T00:00:00.000000Z"
             },
             {
-                "id": 90,
                 "name": "2nd session",
                 "date_start": "1968-01-15T00:00:00.000000Z",
                 "date_end": "1968-10-14T00:00:00.000000Z"
@@ -2142,18 +1980,17 @@
         ]
     },
     "91st Congress": {
+        "id": 91,
         "name": "91st Congress",
         "date_start": "1969-01-03T00:00:00.000000Z",
         "date_end": "1971-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 91,
                 "name": "1st session",
                 "date_start": "1969-01-03T00:00:00.000000Z",
                 "date_end": "1969-12-23T00:00:00.000000Z"
             },
             {
-                "id": 91,
                 "name": "2nd session",
                 "date_start": "1970-01-19T00:00:00.000000Z",
                 "date_end": "1971-01-02T00:00:00.000000Z"
@@ -2161,18 +1998,17 @@
         ]
     },
     "92nd Congress": {
+        "id": 92,
         "name": "92nd Congress",
         "date_start": "1971-01-03T00:00:00.000000Z",
         "date_end": "1973-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 92,
                 "name": "1st session",
                 "date_start": "1971-01-21T00:00:00.000000Z",
                 "date_end": "1971-12-17T00:00:00.000000Z"
             },
             {
-                "id": 92,
                 "name": "2nd session",
                 "date_start": "1972-01-18T00:00:00.000000Z",
                 "date_end": "1972-10-18T00:00:00.000000Z"
@@ -2180,18 +2016,17 @@
         ]
     },
     "93rd Congress": {
+        "id": 93,
         "name": "93rd Congress",
         "date_start": "1973-01-03T00:00:00.000000Z",
         "date_end": "1975-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 93,
                 "name": "1st session",
                 "date_start": "1973-01-03T00:00:00.000000Z",
                 "date_end": "1973-12-22T00:00:00.000000Z"
             },
             {
-                "id": 93,
                 "name": "2nd session",
                 "date_start": "1974-01-21T00:00:00.000000Z",
                 "date_end": "1974-12-20T00:00:00.000000Z"
@@ -2199,18 +2034,17 @@
         ]
     },
     "94th Congress": {
+        "id": 94,
         "name": "94th Congress",
         "date_start": "1975-01-03T00:00:00.000000Z",
         "date_end": "1977-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 94,
                 "name": "1st session",
                 "date_start": "1975-01-14T00:00:00.000000Z",
                 "date_end": "1975-12-19T00:00:00.000000Z"
             },
             {
-                "id": 94,
                 "name": "2nd session",
                 "date_start": "1976-01-19T00:00:00.000000Z",
                 "date_end": "1976-10-01T00:00:00.000000Z"
@@ -2218,18 +2052,17 @@
         ]
     },
     "95th Congress": {
+        "id": 95,
         "name": "95th Congress",
         "date_start": "1977-01-03T00:00:00.000000Z",
         "date_end": "1979-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 95,
                 "name": "1st session",
                 "date_start": "1977-01-04T00:00:00.000000Z",
                 "date_end": "1977-12-15T00:00:00.000000Z"
             },
             {
-                "id": 95,
                 "name": "2nd session",
                 "date_start": "1978-01-19T00:00:00.000000Z",
                 "date_end": "1978-10-15T00:00:00.000000Z"
@@ -2237,18 +2070,17 @@
         ]
     },
     "96th Congress": {
+        "id": 96,
         "name": "96th Congress",
         "date_start": "1979-01-03T00:00:00.000000Z",
         "date_end": "1981-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 96,
                 "name": "1st session",
                 "date_start": "1979-01-15T00:00:00.000000Z",
                 "date_end": "1980-01-03T00:00:00.000000Z"
             },
             {
-                "id": 96,
                 "name": "2nd session",
                 "date_start": "1980-01-03T00:00:00.000000Z",
                 "date_end": "1980-12-16T00:00:00.000000Z"
@@ -2256,18 +2088,17 @@
         ]
     },
     "97th Congress": {
+        "id": 97,
         "name": "97th Congress",
         "date_start": "1981-01-03T00:00:00.000000Z",
         "date_end": "1983-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 97,
                 "name": "1st session",
                 "date_start": "1981-01-05T00:00:00.000000Z",
                 "date_end": "1981-12-16T00:00:00.000000Z"
             },
             {
-                "id": 97,
                 "name": "2nd session",
                 "date_start": "1982-01-25T00:00:00.000000Z",
                 "date_end": "1982-12-23T00:00:00.000000Z"
@@ -2275,18 +2106,17 @@
         ]
     },
     "98th Congress": {
+        "id": 98,
         "name": "98th Congress",
         "date_start": "1983-01-03T00:00:00.000000Z",
         "date_end": "1985-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 98,
                 "name": "1st session",
                 "date_start": "1983-01-03T00:00:00.000000Z",
                 "date_end": "1983-11-18T00:00:00.000000Z"
             },
             {
-                "id": 98,
                 "name": "2nd session",
                 "date_start": "1984-01-23T00:00:00.000000Z",
                 "date_end": "1984-10-12T00:00:00.000000Z"
@@ -2294,18 +2124,17 @@
         ]
     },
     "99th Congress": {
+        "id": 99,
         "name": "99th Congress",
         "date_start": "1985-01-03T00:00:00.000000Z",
         "date_end": "1987-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 99,
                 "name": "1st session",
                 "date_start": "1985-01-03T00:00:00.000000Z",
                 "date_end": "1985-12-20T00:00:00.000000Z"
             },
             {
-                "id": 99,
                 "name": "2nd session",
                 "date_start": "1986-01-21T00:00:00.000000Z",
                 "date_end": "1986-10-18T00:00:00.000000Z"
@@ -2313,18 +2142,17 @@
         ]
     },
     "100th Congress": {
+        "id": 100,
         "name": "100th Congress",
         "date_start": "1987-01-03T00:00:00.000000Z",
         "date_end": "1989-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 100,
                 "name": "1st session",
                 "date_start": "1987-01-06T00:00:00.000000Z",
                 "date_end": "1987-12-22T00:00:00.000000Z"
             },
             {
-                "id": 100,
                 "name": "2nd session",
                 "date_start": "1988-01-25T00:00:00.000000Z",
                 "date_end": "1988-10-22T00:00:00.000000Z"
@@ -2332,18 +2160,17 @@
         ]
     },
     "101st Congress": {
+        "id": 101,
         "name": "101st Congress",
         "date_start": "1989-01-03T00:00:00.000000Z",
         "date_end": "1991-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 101,
                 "name": "1st session",
                 "date_start": "1989-01-03T00:00:00.000000Z",
                 "date_end": "1989-11-22T00:00:00.000000Z"
             },
             {
-                "id": 101,
                 "name": "2nd session",
                 "date_start": "1990-01-23T00:00:00.000000Z",
                 "date_end": "1990-10-28T00:00:00.000000Z"
@@ -2351,18 +2178,17 @@
         ]
     },
     "102nd Congress": {
+        "id": 102,
         "name": "102nd Congress",
         "date_start": "1991-01-03T00:00:00.000000Z",
         "date_end": "1993-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 102,
                 "name": "1st session",
                 "date_start": "1991-01-03T00:00:00.000000Z",
                 "date_end": "1992-01-03T00:00:00.000000Z"
             },
             {
-                "id": 102,
                 "name": "2nd session",
                 "date_start": "1992-01-03T00:00:00.000000Z",
                 "date_end": "1992-10-09T00:00:00.000000Z"
@@ -2370,18 +2196,17 @@
         ]
     },
     "103rd Congress": {
+        "id": 103,
         "name": "103rd Congress",
         "date_start": "1993-01-03T00:00:00.000000Z",
         "date_end": "1995-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 103,
                 "name": "1st session",
                 "date_start": "1993-01-05T00:00:00.000000Z",
                 "date_end": "1993-11-26T00:00:00.000000Z"
             },
             {
-                "id": 103,
                 "name": "2nd session",
                 "date_start": "1994-01-25T00:00:00.000000Z",
                 "date_end": "1994-12-01T00:00:00.000000Z"
@@ -2389,18 +2214,17 @@
         ]
     },
     "104th Congress": {
+        "id": 104,
         "name": "104th Congress",
         "date_start": "1995-01-03T00:00:00.000000Z",
         "date_end": "1997-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 104,
                 "name": "1st session",
                 "date_start": "1995-01-04T00:00:00.000000Z",
                 "date_end": "1996-01-03T00:00:00.000000Z"
             },
             {
-                "id": 104,
                 "name": "2nd session",
                 "date_start": "1996-01-03T00:00:00.000000Z",
                 "date_end": "1996-10-04T00:00:00.000000Z"
@@ -2408,18 +2232,17 @@
         ]
     },
     "105th Congress": {
+        "id": 105,
         "name": "105th Congress",
         "date_start": "1997-01-03T00:00:00.000000Z",
         "date_end": "1999-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 105,
                 "name": "1st session",
                 "date_start": "1997-01-07T00:00:00.000000Z",
                 "date_end": "1997-11-13T00:00:00.000000Z"
             },
             {
-                "id": 105,
                 "name": "2nd session",
                 "date_start": "1998-01-27T00:00:00.000000Z",
                 "date_end": "1998-12-19T00:00:00.000000Z"
@@ -2427,18 +2250,17 @@
         ]
     },
     "106th Congress": {
+        "id": 106,
         "name": "106th Congress",
         "date_start": "1999-01-03T00:00:00.000000Z",
         "date_end": "2001-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 106,
                 "name": "1st session",
                 "date_start": "1999-01-06T00:00:00.000000Z",
                 "date_end": "1999-11-22T00:00:00.000000Z"
             },
             {
-                "id": 106,
                 "name": "2nd session",
                 "date_start": "2000-01-24T00:00:00.000000Z",
                 "date_end": "2000-12-15T00:00:00.000000Z"
@@ -2446,18 +2268,17 @@
         ]
     },
     "107th Congress": {
+        "id": 107,
         "name": "107th Congress",
         "date_start": "2001-01-03T00:00:00.000000Z",
         "date_end": "2003-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 107,
                 "name": "1st session",
                 "date_start": "2001-01-03T00:00:00.000000Z",
                 "date_end": "2001-12-20T00:00:00.000000Z"
             },
             {
-                "id": 107,
                 "name": "2nd session",
                 "date_start": "2002-01-23T00:00:00.000000Z",
                 "date_end": "2002-11-22T00:00:00.000000Z"
@@ -2465,18 +2286,17 @@
         ]
     },
     "108th Congress": {
+        "id": 108,
         "name": "108th Congress",
         "date_start": "2003-01-03T00:00:00.000000Z",
         "date_end": "2005-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 108,
                 "name": "1st session",
                 "date_start": "2003-01-07T00:00:00.000000Z",
                 "date_end": "2003-12-09T00:00:00.000000Z"
             },
             {
-                "id": 108,
                 "name": "2nd session",
                 "date_start": "2004-01-20T00:00:00.000000Z",
                 "date_end": "2004-12-08T00:00:00.000000Z"
@@ -2484,18 +2304,17 @@
         ]
     },
     "109th Congress": {
+        "id": 109,
         "name": "109th Congress",
         "date_start": "2005-01-03T00:00:00.000000Z",
         "date_end": "2007-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 109,
                 "name": "1st session",
                 "date_start": "2005-01-04T00:00:00.000000Z",
                 "date_end": "2005-12-22T00:00:00.000000Z"
             },
             {
-                "id": 109,
                 "name": "2nd session",
                 "date_start": "2006-01-03T00:00:00.000000Z",
                 "date_end": "2006-12-09T00:00:00.000000Z"
@@ -2503,18 +2322,17 @@
         ]
     },
     "110th Congress": {
+        "id": 110,
         "name": "110th Congress",
         "date_start": "2007-01-03T00:00:00.000000Z",
         "date_end": "2009-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 110,
                 "name": "1st session",
                 "date_start": "2007-01-04T00:00:00.000000Z",
                 "date_end": "2007-12-19T00:00:00.000000Z"
             },
             {
-                "id": 110,
                 "name": "2nd session",
                 "date_start": "2008-01-03T00:00:00.000000Z",
                 "date_end": "2009-01-03T00:00:00.000000Z"
@@ -2522,18 +2340,17 @@
         ]
     },
     "111th Congress": {
+        "id": 111,
         "name": "111th Congress",
         "date_start": "2009-01-03T00:00:00.000000Z",
         "date_end": "2011-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 111,
                 "name": "1st session",
                 "date_start": "2009-01-06T00:00:00.000000Z",
                 "date_end": "2009-12-24T00:00:00.000000Z"
             },
             {
-                "id": 111,
                 "name": "2nd session",
                 "date_start": "2010-01-05T00:00:00.000000Z",
                 "date_end": "2010-12-22T00:00:00.000000Z"
@@ -2541,18 +2358,17 @@
         ]
     },
     "112th Congress": {
+        "id": 112,
         "name": "112th Congress",
         "date_start": "2011-01-03T00:00:00.000000Z",
         "date_end": "2013-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 112,
                 "name": "1st session",
                 "date_start": "2011-01-05T00:00:00.000000Z",
                 "date_end": "2012-01-03T00:00:00.000000Z"
             },
             {
-                "id": 112,
                 "name": "2nd session",
                 "date_start": "2012-01-03T00:00:00.000000Z",
                 "date_end": "2013-01-03T00:00:00.000000Z"
@@ -2560,18 +2376,17 @@
         ]
     },
     "113th Congress": {
+        "id": 113,
         "name": "113th Congress",
         "date_start": "2013-01-03T00:00:00.000000Z",
         "date_end": "2015-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 113,
                 "name": "1st session",
                 "date_start": "2013-01-03T00:00:00.000000Z",
                 "date_end": "2013-12-26T00:00:00.000000Z"
             },
             {
-                "id": 113,
                 "name": "2nd session",
                 "date_start": "2014-01-03T00:00:00.000000Z",
                 "date_end": "2014-12-16T00:00:00.000000Z"
@@ -2579,18 +2394,17 @@
         ]
     },
     "114th Congress": {
+        "id": 114,
         "name": "114th Congress",
         "date_start": "2015-01-03T00:00:00.000000Z",
         "date_end": "2017-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 114,
                 "name": "1st session",
                 "date_start": "2015-01-06T00:00:00.000000Z",
                 "date_end": "2015-12-18T00:00:00.000000Z"
             },
             {
-                "id": 114,
                 "name": "2nd session",
                 "date_start": "2016-01-04T00:00:00.000000Z",
                 "date_end": "2017-01-03T00:00:00.000000Z"
@@ -2598,18 +2412,17 @@
         ]
     },
     "115th Congress": {
+        "id": 115,
         "name": "115th Congress",
         "date_start": "2017-01-03T00:00:00.000000Z",
         "date_end": "2019-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 115,
                 "name": "1st session",
                 "date_start": "2017-01-03T00:00:00.000000Z",
                 "date_end": "2018-01-03T00:00:00.000000Z"
             },
             {
-                "id": 115,
                 "name": "2nd session",
                 "date_start": "2018-01-03T00:00:00.000000Z",
                 "date_end": "2019-01-03T00:00:00.000000Z"
@@ -2617,18 +2430,17 @@
         ]
     },
     "116th Congress": {
+        "id": 116,
         "name": "116th Congress",
         "date_start": "2019-01-03T00:00:00.000000Z",
         "date_end": "2021-01-03T00:00:00.000000Z",
         "sessions": [
             {
-                "id": 116,
                 "name": "1st session",
                 "date_start": "2019-01-03T00:00:00.000000Z",
                 "date_end": "2020-01-03T00:00:00.000000Z"
             },
             {
-                "id": 116,
                 "name": "2nd session",
                 "date_start": null,
                 "date_end": null
